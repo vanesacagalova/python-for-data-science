@@ -20,8 +20,8 @@ Room: K4
 | 19.10.2026 | Pandas | [HW3](https://github.com/ondratybl/python-for-data-science/blob/main/assignment3.ipynb) | 1.11.2026 | Ondrej |
 | 02.11.2026 | databases |  [HW4](https://github.com/ondratybl/python-for-data-science/blob/main/assignment4.ipynb) | 15.11.2026  | Ondrej |
 | 16.11.2026 | sklearn | [HW5](https://github.com/ondratybl/python-for-data-science/blob/main/assignment5.ipynb) | 29.11.2026 | Filip |
-| 30.11.2026 | TBA                         | TBA                                                                                                                                                                            | TBA                   | TBA      |
-| 14.12.2026 | TBA                         | TBA                                                                                                                                                                            | TBA                   | TBA      |
+| 30.11.2026 | subclassing | TBA | 13.12.2026 | Ondrej |
+| 14.12.2026 | coding agents | TBA | 3.1.2027 | Filip |
 
 [^1]: All homework deadlines are due at **23:59** on the specified date.
 
